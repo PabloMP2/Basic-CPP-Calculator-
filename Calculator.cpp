@@ -18,7 +18,7 @@ int main() {
   getline(cin, mystr);
 
 
-  cout << "Add Times Or Subtract Or Divide: ";
+  cout << "Add Times Subtract Or Divide: ";
   getline(cin, iguhgj);
 	stringstream(mystr) >> price;
   
